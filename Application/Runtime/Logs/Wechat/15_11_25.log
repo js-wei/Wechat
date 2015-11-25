@@ -1,0 +1,878 @@
+[ 2015-11-25T14:03:30+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-25T14:03:40+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-25T14:03:46+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [8] Undefined index: echostr D:\wamp\www\Wechat\Application\WechatApi\Wechat.class.php 第 42 行.
+NOTIC: [8] Undefined index: signature D:\wamp\www\Wechat\Application\WechatApi\Wechat.class.php 第 224 行.
+NOTIC: [8] Undefined index: timestamp D:\wamp\www\Wechat\Application\WechatApi\Wechat.class.php 第 225 行.
+NOTIC: [8] Undefined index: nonce D:\wamp\www\Wechat\Application\WechatApi\Wechat.class.php 第 226 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wamp\www\Wechat\Application\WechatApi\Wechat.class.php 第 51 行.
+
+[ 2015-11-25T14:04:05+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+
+[ 2015-11-25T14:04:25+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+
+[ 2015-11-25T14:04:33+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2015-11-25T14:04:42+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+
+[ 2015-11-25T14:04:55+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+NOTIC: [8] Use of undefined constant ThinkPHP - assumed 'ThinkPHP' D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 13 行.
+
+[ 2015-11-25T14:13:28+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+
+[ 2015-11-25T14:15:16+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-11-25T14:15:30+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+
+[ 2015-11-25T14:18:10+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+
+[ 2015-11-25T14:26:08+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+
+[ 2015-11-25T14:26:39+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-11-25T14:27:34+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+
+[ 2015-11-25T14:33:25+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001572s ]
+
+[ 2015-11-25T14:34:29+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+
+[ 2015-11-25T14:37:58+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+
+[ 2015-11-25T14:39:10+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+
+[ 2015-11-25T14:39:38+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+
+[ 2015-11-25T14:39:50+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+
+[ 2015-11-25T14:40:32+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+
+[ 2015-11-25T14:40:58+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+
+[ 2015-11-25T14:41:03+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2015-11-25T15:00:59+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 45 行.
+
+[ 2015-11-25T15:02:03+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 45 行.
+
+[ 2015-11-25T15:02:04+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 45 行.
+
+[ 2015-11-25T15:02:31+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+
+[ 2015-11-25T15:02:43+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+
+[ 2015-11-25T15:02:51+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 34 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 41 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 45 行.
+
+[ 2015-11-25T15:05:03+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 36 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 36 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 43 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 47 行.
+
+[ 2015-11-25T15:05:13+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:15:24+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 185 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 161 行.
+NOTIC: [2048] Non-static method Service\System::currentTimeMillis() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+NOTIC: [2048] Non-static method Service\Random::nextLong() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+
+[ 2015-11-25T15:16:09+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 185 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 161 行.
+NOTIC: [2048] Non-static method Service\System::currentTimeMillis() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+NOTIC: [2048] Non-static method Service\Random::nextLong() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+
+[ 2015-11-25T15:16:09+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 185 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 161 行.
+NOTIC: [2048] Non-static method Service\System::currentTimeMillis() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+NOTIC: [2048] Non-static method Service\Random::nextLong() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 186 行.
+
+[ 2015-11-25T15:16:39+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:16:58+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 165 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 140 行.
+
+[ 2015-11-25T15:17:11+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 165 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 140 行.
+
+[ 2015-11-25T15:17:23+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 165 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 140 行.
+
+[ 2015-11-25T15:18:41+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 166 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 139 行.
+
+[ 2015-11-25T15:19:15+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 165 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 140 行.
+NOTIC: [8] Undefined variable: Name D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 140 行.
+NOTIC: [2048] Non-static method Service\System::currentTimeMillis() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 167 行.
+NOTIC: [2048] Non-static method Service\Random::nextLong() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 167 行.
+
+[ 2015-11-25T15:23:42+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [2048] Non-static method Service\NetAddress::getLocalHost() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\Guid.class.php 第 38 行.
+NOTIC: [8] Undefined index: COMPUTERNAME D:\wamp\www\Wechat\Application\Service\Guid.class.php 第 14 行.
+NOTIC: [2048] Non-static method Service\System::currentTimeMillis() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\Guid.class.php 第 39 行.
+NOTIC: [2048] Non-static method Service\Random::nextLong() should not be called statically, assuming $this from incompatible context D:\wamp\www\Wechat\Application\Service\Guid.class.php 第 39 行.
+
+[ 2015-11-25T15:29:22+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:24+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:25+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:25+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:26+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:33+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:42+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:46+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:29:50+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:30:01+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:30:02+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:30:04+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:30:05+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+
+[ 2015-11-25T15:30:16+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:30:18+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:30:18+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:30:35+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:30:53+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+
+[ 2015-11-25T15:31:01+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:31:03+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:31:11+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 61 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 62 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 63 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 64 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:31:14+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 61 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 62 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 63 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 64 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:31:14+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 61 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 62 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 63 行.
+NOTIC: [8] Undefined variable: hyphen D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 64 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:36:47+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:36:48+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:36:48+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: token D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 42 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:37:40+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+
+[ 2015-11-25T15:38:04+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:38:06+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:38:07+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+NOTIC: [2] Missing argument 1 for Service\BaiduVoice::convert(), called in D:\wamp\www\Wechat\Application\Wechat\Action\IndexAction.class.php on line 28 and defined D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 33 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [2] file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 35 行.
+NOTIC: [8] Undefined variable: path D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 46 行.
+
+[ 2015-11-25T15:39:22+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-11-25T15:39:53+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+NOTIC: [8] Undefined variable: url D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 121 行.
+
+[ 2015-11-25T15:39:59+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+NOTIC: [8] Undefined variable: url D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 121 行.
+
+[ 2015-11-25T15:41:02+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+
+[ 2015-11-25T15:41:55+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+
+[ 2015-11-25T15:42:33+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2015-11-25T15:49:32+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+
+[ 2015-11-25T15:49:49+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+
+[ 2015-11-25T15:53:40+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+
+[ 2015-11-25T15:53:42+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+
+[ 2015-11-25T15:54:14+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+
+[ 2015-11-25T15:54:54+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+
+[ 2015-11-25T15:55:21+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2015-11-25T16:00:45+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [2] http_build_query() [<a href='function.http-build-query'>function.http-build-query</a>]: Parameter 1 expected to be Array or Object.  Incorrect value given D:\wamp\www\Wechat\Application\Service\BaiduVoice.class.php 第 101 行.
+
+[ 2015-11-25T16:01:39+08:00 ] 127.0.0.1 /Wechat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+
