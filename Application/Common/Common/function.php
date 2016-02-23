@@ -21,6 +21,25 @@
 	    return $array; 
 	} 
 	/**
+        * [limitArray 取出指定范围数组]
+        * @param  [type] $arr   [description]
+        * @param  [type] $start [description]
+        * @param  [type] $end   [description]
+        * @return [type]        [description]
+        */
+        function limitArray($arr,$start,$end=0){
+		if($end==0){
+			$end = count($arr)-1;
+		}
+		
+		for($i=$start; $i < $end; $i++) { 
+			if ($i<count($arr)) {
+				$_result[]=$arr[$i];
+			}
+		}
+		return $_result;
+	}
+	/**
 	 * [getMacAddr 生成MAC]
 	 */
 	function getMacAddr(){
